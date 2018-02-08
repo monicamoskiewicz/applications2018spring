@@ -1,0 +1,24 @@
+{
+  "entrypoints" : [
+    {
+      "name" : "Home1",
+      "file" : "home1.png"
+    },
+    {
+      "name" : "Home2",
+      "file" : "home2.png"
+    },
+    {
+      "name" : "Home3",
+      "file" : "home3.png"
+    },
+    {
+      "name" : "Search",
+      "file" : "search.png"
+    },
+    {
+      "name" : "Product Page",
+      "file" : "productpage.png"
+    }
+  ]
+}
