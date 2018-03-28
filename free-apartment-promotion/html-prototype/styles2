@@ -1,0 +1,43 @@
+body {
+	background-color: #eae8dc;
+	
+}
+
+h1, h2, p, .button {
+	margin-left: 9%;
+	margin-right: 9%;
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+h1 {
+	color: #343330;
+	opacity: 0.13;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 900;
+	font-size: 100px;
+	letter-spacing: 1.2;
+	/*position: absolute;
+	z-index: -1;
+	left: 20%;
+	top: 0;*/
+	margin-top: 5%;
+	margin-bottom: 0;
+
+
+}
+
+h2 {
+	color: #ff5347;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-weight: 400;
+	font-size: 90px;
+	letter-spacing: 0.05em;
+/*	position: absolute;
+	z-index: 1;*/
+	margin: 0;
+	margin-bottom: 5%;
+
+}
